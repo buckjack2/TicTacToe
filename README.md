@@ -3,6 +3,7 @@
 for android 
 
 for 2 players
+
 reset function
 
 Reason for making: 
